@@ -1,7 +1,7 @@
 import cv2
 import pandas as pd
 #pandas is best suited to read csv files.
-img_path = r'C:\Users\Admin\Downloads'
+img_path = 'D:\GK NM\Colorful Nature Image.png'
 img = cv2.imread(img_path)
 
 # declaring global variables
